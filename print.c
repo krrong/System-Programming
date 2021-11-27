@@ -17,7 +17,7 @@ int* calculate(struct coordinate* a, struct coordinate* b, int cnt) {
 }
 
 // first coordinate second coordinate distance seconds DMS Ãâ·Â
-void printDMS(struct coordinate* start, struct coordinate* dest, int cnt) {
+void print(struct coordinate* start, struct coordinate* dest, int cnt) {
 	int* dist = malloc(sizeof(int) * cnt);
 	dist = calculate(start, dest, cnt);
 
