@@ -139,4 +139,4 @@
 
   - print함수를 이용하여 형식에 맞게 출력한다.
 
-    ![image-20211127170057381](C:\Users\Lab02\AppData\Roaming\Typora\typora-user-images\image-20211127170057381.png)	
+    ![image](https://user-images.githubusercontent.com/84285337/143673406-20bcf259-3e91-407d-aa15-03a45ab7d805.png)	
