@@ -12,7 +12,6 @@ int main() {
 	int cnt = getGIS("input.txt", start, destination);
 	changeDMS(start, cnt);
 	changeDMS(destination, cnt);
-	calculate(start, destination, cnt);
-	printDMS(start, destination, cnt);
+	print(start, destination, cnt);
 	return 0;
 }
